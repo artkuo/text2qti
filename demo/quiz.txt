@@ -3,7 +3,7 @@ Quiz description: Add a Description of the quiz
 
 Title: Multiple Choice Q
 Points: 2
-1.  What is 2+3?
+1.  What is 2+3 + $\theta$?
 ... General question feedback.
 +   Feedback for correct answer.
 -   Feedback for incorrect answer.
@@ -17,6 +17,7 @@ b)  1
 Title: Checkbox Q
 Points: 2
 1.  Which of the following are dinosaurs?
+    ![alt_text](sinusoid_signal.png)
 [ ] Woolly mammoth
 [*] Tyrannosaurus rex
 [*] Triceratops
