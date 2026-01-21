@@ -1,5 +1,6 @@
 Quiz title: Sample Quiz
 Quiz description: Add a Description of the quiz
+feedback is solution: true
 
 Title: Multiple Choice Q
 Points: 2
@@ -53,3 +54,15 @@ Points: 2
 1.  Upload a file.
 ... General question feedback.
 ^^^^
+
+Title: Question with (unexecuted) code block
+1.  What is produced by this code?
+    ```matlab
+    x = 1;
+    y = x + 1;
+    disp(y);
+    ```
+a) 1
+*b) 2
+c) 3
+
